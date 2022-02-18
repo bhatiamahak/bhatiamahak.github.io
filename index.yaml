@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - https://bhatiamahak.github.io/
+    - https://bhatiamahak.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-02-18T12:44:04.011499386Z"
